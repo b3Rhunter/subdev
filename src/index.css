@@ -2,6 +2,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  outline: none;
 }
 
 * {
@@ -12,6 +13,11 @@
 
 html {
   color-scheme: light dark;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
 
 img {
