@@ -17,7 +17,7 @@ html {
 
 a {
   all: unset;
-  color: white;
+  color: white !important;
   text-decoration: none;
 }
 
